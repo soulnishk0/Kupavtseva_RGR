@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876897595877",
+    "firebase_url": "https://kupavtseva-rgr-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kupavtseva-rgr",
+    "storage_bucket": "kupavtseva-rgr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876897595877:android:23a1aaa9c81f0411d0bf0c",
+        "android_client_info": {
+          "package_name": "com.example.kupavtseva_rgr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876897595877-7tp2f449umdtl0upddonr57ur23pu90l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvVTptCm-CG72e25LLbgrprScIl-Dc4-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876897595877-7tp2f449umdtl0upddonr57ur23pu90l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
